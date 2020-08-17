@@ -31,7 +31,7 @@ function table1(data) {
 
 // utilize function to call more data...
 // with JS you pass a function as the event handler rather than as a string
-// handleClick helps bind necessary elements to make '' work in the callback
+// handleClick helps bind necessary elements to make the filtered data work in the callback
 function handleClick() {
     // will make it to where the page needs refreshed manually
     d3.event.preventDefault()
