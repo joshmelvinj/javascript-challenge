@@ -2,8 +2,6 @@
 var tableData = data;
 
 // YOUR CODE HERE!
-// variable for table from data.js
-var tableData = data;
 
 // utilize d3
 var tbody = d3.select("tbody");
